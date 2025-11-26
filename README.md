@@ -1,2 +1,2 @@
-# Python-LN2-JR
+# Anzahl der Muttersterblichkeitsrate
 LN2 Informatik
